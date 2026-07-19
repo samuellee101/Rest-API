@@ -1,12 +1,13 @@
 package com.example.productapi.config;
 
-import com.example.productapi.model.Product;
-import com.example.productapi.repository.ProductRepository;
+import java.math.BigDecimal;
+
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 
-import java.math.BigDecimal;
+import com.example.productapi.model.Product;
+import com.example.productapi.repository.ProductRepository;
 
 @Configuration
 public class DataInitializer {
