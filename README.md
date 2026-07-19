@@ -1,3 +1,5 @@
+Disclaimer: This API was built using the Raptor mini LLM in Visual Studio Code.
+
 # Product API
 
 A Spring Boot REST API for managing products.
