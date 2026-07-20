@@ -1,4 +1,4 @@
-Disclaimer: This API was built using the Raptor mini LLM in Visual Studio Code.
+Disclaimer: This API was built with the help of the Raptor mini LLM and Github Copilot in Visual Studio Code.
 
 # Product API
 
